@@ -1,6 +1,7 @@
 ## Hey, I’m Nilesh — thrilled to have you here! 👋
 
 Fuelled by curiosity and a love for tech, I’m passionate about turning creative ideas into purposeful code.
+
 Scroll down to learn more — I’d love to hear from you!
 
 
