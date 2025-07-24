@@ -1,5 +1,8 @@
 ## Hey, I’m Nilesh — thrilled to have you here! 👋
 
+Fuelled by curiosity and a love for tech, I thrive on transforming bold ideas into functional, user-centered experiences.
+Scroll down to learn more — I’d love to hear from you!
+
 <!--
 **Nile5h03/Nile5h03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
