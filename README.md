@@ -19,7 +19,7 @@ Scroll down to learn more — I’d love to hear from you!
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nile5h03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nile5h03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nile5h03&limit=5&theme=dark&combine_all_yearly_contributions=true)
