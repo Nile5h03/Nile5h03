@@ -2,7 +2,7 @@
 
 Fueled by curiosity and a love for tech, I’m passionate about turning creative ideas into purposeful code.
 
-Scroll down to learn more — I’d love to hear from you!
+Scroll down to learn more about me — I’d love to hear from you!
 
 
 
