@@ -16,7 +16,7 @@ Scroll down to learn more — I’d love to hear from you!
 
 # 📊 GitHub Stats:
 
-![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nile5h03&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nile5h03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nile5h03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
