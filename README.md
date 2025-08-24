@@ -18,11 +18,12 @@ Fueled by curiosity and a love for tech, I’m passionate about turning creative
 
 ---
 
-# 📊 GitHub Stats  
 
-![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nile5h03&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
+## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nile5h03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nile5h03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nile5h03&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 
 ---
