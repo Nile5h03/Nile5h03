@@ -51,8 +51,6 @@ Fueled by curiosity and a love for tech, I’m passionate about turning creative
 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100054256002167) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nile_17_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nilesh-singh-b05634275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nileshsingh17052003@gmail.com) 
 
 
 # 📊 GitHub Stats:
@@ -63,12 +61,6 @@ Fueled by curiosity and a love for tech, I’m passionate about turning creative
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nile5h03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nile5h03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Nile5h03&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
